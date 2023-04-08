@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+marquee{
+    color: aqua;
+}
+
+.container{
+    border: thick solid blue;
+    min-height: 100vh;
+    display: block;
+    position: relative;
+    background-image: url(./planet\ b.jpg);
+}
+.imga img{
+    position: absolute;
+    width: 20%;
+    top: 10px;
+    left: 50px;
+
+}
+.imgb img{
+    position: absolute;
+    width: 19%;
+    left: 620px;
+    top: 40px;
+}
+
+.imgc img{
+    position: absolute;
+    width: 19%;
+    bottom: 80px;
+    left: 30px;
+}
+
+.imgd img{
+    position: absolute;
+    width: 15%;
+    bottom: 90px;
+    right: 30px;
+}
+
+.imge img{
+    position: absolute;
+    width: 35%;
+    left: 300px;
+    bottom: 52px;
+}
+
+.imgf img{
+    position: absolute;
+    width: 18%;
+    left: 160px;
+    bottom: 27px;
+}
+
+.imgg img{
+    position: absolute;
+    width: 20%;
+    right: 180px;
+    bottom: 60px;
+}
+
+.imgh img{
+    position: absolute;
+    width: 10%;
+    top: 50px;
+    right: 50px;
+
+
+}
+
+.imgi img{
+    position: absolute;
+    width: 8%;
+    left: 400px;
+    top: 35px;
+} 
+
+
+
